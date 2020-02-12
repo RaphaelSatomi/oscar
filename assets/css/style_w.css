@@ -1410,3 +1410,1142 @@ body{
     height: 200px;
     border: 5px solid #b7a064;
 }
+
+@media only screen and (min-width: 1440px) and (max-width: 2560px){
+    .arrow_int{         
+        margin-left: 750px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1440px){
+    .arrow_int{         
+        margin-left: 200px;
+        margin-top: 500px;
+    }    
+}
+@media only screen and (min-width: 1000px) and (max-width: 1024px){
+    .top_text{
+        margin-top: 40px;
+        margin-bottom: 35px;
+    }
+    .arrow_all{
+        width: 35px;
+    }
+    .arrow_top img, .arrow_bot img{
+        width: 35px;
+        height: 35px;
+    }
+    .arrow_int{         
+        margin-left: 10px;
+        margin-top: 465px;
+    }    
+
+
+    .best_pic_int{
+        width: 640px;                     
+    }
+    .best_pic_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .best_pic_top{        
+        width: 640px;        
+    }
+    .top_best{
+        width: 95px;
+        height: 152px;        
+    }
+    .top_best img{
+        width: 95px;
+        height: 152px;
+    }
+    .best_pic_center{        
+        width: 640px;        
+    }
+    .center_best{
+        width: 95px;
+        height: 152px;        
+    }
+    .center_best img{
+        width: 95px;
+        height: 152px;
+    }
+    .best_pic_bot{        
+        width: 640px;        
+    }
+    .bot_best{
+        width: 95px;
+        height: 152px;        
+    }
+    .bot_best img{
+        width: 95px;
+        height: 152px;
+    }
+    .best_pic_winner{
+        width: 95px;
+        height: 152px;        
+    }
+    .best_pic_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+
+    .actor_role{        
+        margin-top: 70px;
+    }
+    .actor_role_int{
+        width: 426px;        
+    }
+    .actor_role_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .actor_role_top{        
+        width: 426px;        
+    }
+    .top_actor_role{
+        width: 95px;
+        height: 152px;
+    }
+    .top_actor_role img{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_role_center{        
+        width: 426px;        
+    }
+    .actor_role_bot{        
+        width: 426px;        
+    }
+    .bot_actor_role{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_actor_role img{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_role_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_role_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+
+    .actress_role{        
+        margin-top: 70px;
+    }
+    .actress_role_int{
+        width: 426px;        
+    }
+    .actress_role_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .actress_role_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_actress_role{
+        width: 95px;
+        height: 152px;
+    }
+    .top_actress_role img{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_role_center{        
+        width: 426px;        
+    }
+    .actress_role_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_actress_role{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_actress_role img{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_role_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_role_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .actor_supp{        
+        margin-top: 70px;
+    }
+    .actor_supp_int{
+        width: 426px;        
+    }
+    .actor_supp_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .actor_supp_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_actor_supp{
+        width: 95px;
+        height: 152px;
+    }
+    .top_actor_supp img{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_supp_center{        
+        width: 426px;        
+    }
+    .actor_supp_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_actor_supp{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_actor_supp img{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_supp_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .actor_supp_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .actress_supp{        
+        margin-top: 70px;
+    }
+    .actress_supp_int{
+        width: 426px;        
+    }
+    .actress_supp_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .actress_supp_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_actress_supp{
+        width: 95px;
+        height: 152px;
+    }
+    .top_actress_supp img{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_supp_center{        
+        width: 426px;        
+    }
+    .actress_supp_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_actress_supp{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_actress_supp img{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_supp_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .actress_supp_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .animated_film{        
+        margin-top: 70px;
+    }
+    .animated_film_int{
+        width: 426px;        
+    }
+    .animated_film_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .animated_film_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_animated_film{
+        width: 95px;
+        height: 152px;
+    }
+    .top_animated_film img{
+        width: 95px;
+        height: 152px;
+    }
+    .animated_film_center{        
+        width: 426px;        
+    }
+    .animated_film_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_animated_film{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_animated_film img{
+        width: 95px;
+        height: 152px;
+    }
+    .animated_film_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .animated_film_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+
+    .cinema{        
+        margin-top: 70px;
+    }
+    .cinema_int{
+        width: 426px;        
+    }
+    .cinema_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .cinema_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_cinema{
+        width: 95px;
+        height: 152px;
+    }
+    .top_cinema img{
+        width: 95px;
+        height: 152px;
+    }
+    .cinema_center{        
+        width: 426px;        
+    }
+    .cinema_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_cinema{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_cinema img{
+        width: 95px;
+        height: 152px;
+    }
+    .cinema_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .cinema_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+
+    .cost_design{        
+        margin-top: 70px;
+    }
+    .cost_design_int{
+        width: 426px;        
+    }
+    .cost_design_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .cost_design_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_cost_design{
+        width: 95px;
+        height: 152px;
+    }
+    .top_cost_design img{
+        width: 95px;
+        height: 152px;
+    }
+    .cost_design_center{        
+        width: 426px;        
+    }
+    .cost_design_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_cost_design{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_cost_design img{
+        width: 95px;
+        height: 152px;
+    }
+    .cost_design_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .cost_design_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .direc{        
+        margin-top: 70px;
+    }
+    .direc_int{
+        width: 426px;        
+    }
+    .direc_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .direc_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_direc{
+        width: 95px;
+        height: 152px;
+    }
+    .top_direc img{
+        width: 95px;
+        height: 152px;
+    }
+    .direc_center{        
+        width: 426px;        
+    }
+    .direc_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_direc{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_direc img{
+        width: 95px;
+        height: 152px;
+    }
+    .direc_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .direc_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .doc{        
+        margin-top: 70px;
+    }
+    .doc_int{
+        width: 426px;        
+    }
+    .doc_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .doc_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_doc{
+        width: 95px;
+        height: 152px;
+    }
+    .top_doc img{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_center{        
+        width: 426px;        
+    }
+    .doc_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_doc{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_doc img{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .doc_short{        
+        margin-top: 70px;
+    }
+    .doc_short_int{
+        width: 426px;        
+    }
+    .doc_short_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .doc_short_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_doc_short{
+        width: 95px;
+        height: 152px;
+    }
+    .top_doc_short img{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_short_center{        
+        width: 426px;        
+    }
+    .doc_short_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_doc_short{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_doc_short img{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_short_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .doc_short_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .film{        
+        margin-top: 70px;
+    }
+    .film_int{
+        width: 426px;        
+    }
+    .film_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .film_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_film{
+        width: 95px;
+        height: 152px;
+    }
+    .top_film img{
+        width: 95px;
+        height: 152px;
+    }
+    .film_center{        
+        width: 426px;        
+    }
+    .film_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_film{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_film img{
+        width: 95px;
+        height: 152px;
+    }
+    .film_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .film_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .inter{        
+        margin-top: 70px;
+    }
+    .inter_int{
+        width: 426px;        
+    }
+    .inter_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .inter_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_inter{
+        width: 95px;
+        height: 152px;
+    }
+    .top_inter img{
+        width: 95px;
+        height: 152px;
+    }
+    .inter_center{        
+        width: 426px;        
+    }
+    .inter_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_inter{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_inter img{
+        width: 95px;
+        height: 152px;
+    }
+    .inter_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .inter_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .make{        
+        margin-top: 70px;
+    }
+    .make_int{
+        width: 426px;        
+    }
+    .make_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .make_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_make{
+        width: 95px;
+        height: 152px;
+    }
+    .top_make img{
+        width: 95px;
+        height: 152px;
+    }
+    .make_center{        
+        width: 426px;        
+    }
+    .make_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_make{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_make img{
+        width: 95px;
+        height: 152px;
+    }
+    .make_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .make_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .music_score{        
+        margin-top: 70px;
+    }
+    .music_score_int{
+        width: 426px;        
+    }
+    .music_score_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .music_score_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_music_score{
+        width: 95px;
+        height: 152px;
+    }
+    .top_music_score img{
+        width: 95px;
+        height: 152px;
+    }
+    .music_score_center{        
+        width: 426px;        
+    }
+    .music_score_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_music_score{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_music_score img{
+        width: 95px;
+        height: 152px;
+    }
+    .music_score_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .music_score_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .music_ori{        
+        margin-top: 70px;
+    }
+    .music_ori_int{
+        width: 426px;        
+    }
+    .music_ori_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .music_ori_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_music_ori{
+        width: 95px;
+        height: 152px;
+    }
+    .top_music_ori img{
+        width: 95px;
+        height: 152px;
+    }
+    .music_ori_center{        
+        width: 426px;        
+    }
+    .music_ori_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_music_ori{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_music_ori img{
+        width: 95px;
+        height: 152px;
+    }
+    .music_ori_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .music_ori_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .prod{        
+        margin-top: 70px;
+    }
+    .prod_int{
+        width: 426px;        
+    }
+    .prod_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .prod_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_prod{
+        width: 95px;
+        height: 152px;
+    }
+    .top_prod img{
+        width: 95px;
+        height: 152px;
+    }
+    .prod_center{        
+        width: 426px;        
+    }
+    .prod_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_prod{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_prod img{
+        width: 95px;
+        height: 152px;
+    }
+    .prod_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .prod_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .short_ani{        
+        margin-top: 70px;
+    }
+    .short_ani_int{
+        width: 426px;        
+    }
+    .short_ani_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .short_ani_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_short_ani{
+        width: 95px;
+        height: 152px;
+    }
+    .top_short_ani img{
+        width: 95px;
+        height: 152px;
+    }
+    .short_ani_center{        
+        width: 426px;        
+    }
+    .short_ani_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_short_ani{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_short_ani img{
+        width: 95px;
+        height: 152px;
+    }
+    .short_ani_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .short_ani_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .short_live{        
+        margin-top: 70px;
+    }
+    .short_live_int{
+        width: 426px;        
+    }
+    .short_live_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .short_live_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_short_live{
+        width: 95px;
+        height: 152px;
+    }
+    .top_short_live img{
+        width: 95px;
+        height: 152px;
+    }
+    .short_live_center{        
+        width: 426px;        
+    }
+    .short_live_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_short_live{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_short_live img{
+        width: 95px;
+        height: 152px;
+    }
+    .short_live_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .short_live_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .sound_edit{        
+        margin-top: 70px;
+    }
+    .sound_edit_int{
+        width: 426px;        
+    }
+    .sound_edit_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .sound_edit_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_sound_edit{
+        width: 95px;
+        height: 152px;
+    }
+    .top_sound_edit img{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_edit_center{        
+        width: 426px;        
+    }
+    .sound_edit_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_sound_edit{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_sound_edit img{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_edit_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_edit_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .sound_mix{        
+        margin-top: 70px;
+    }
+    .sound_mix_int{
+        width: 426px;        
+    }
+    .sound_mix_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .sound_mix_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_sound_mix{
+        width: 95px;
+        height: 152px;
+    }
+    .top_sound_mix img{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_mix_center{        
+        width: 426px;        
+    }
+    .sound_mix_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_sound_mix{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_sound_mix img{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_mix_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .sound_mix_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .visual_effects{        
+        margin-top: 70px;
+    }
+    .visual_effects_int{
+        width: 426px;        
+    }
+    .visual_effects_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .visual_effects_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_visual_effects{
+        width: 95px;
+        height: 152px;
+    }
+    .top_visual_effects img{
+        width: 95px;
+        height: 152px;
+    }
+    .visual_effects_center{        
+        width: 426px;        
+    }
+    .visual_effects_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_visual_effects{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_visual_effects img{
+        width: 95px;
+        height: 152px;
+    }
+    .visual_effects_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .visual_effects_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .writing_adap{        
+        margin-top: 70px;
+    }
+    .writing_adap_int{
+        width: 426px;        
+    }
+    .writing_adap_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .writing_adap_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_writing_adap{
+        width: 95px;
+        height: 152px;
+    }
+    .top_writing_adap img{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_adap_center{        
+        width: 426px;        
+    }
+    .writing_adap_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_writing_adap{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_writing_adap img{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_adap_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_adap_winner img{
+        width: 95px;
+        height: 152px;
+    }
+
+    .writing_orig{        
+        margin-top: 70px;
+    }
+    .writing_orig_int{
+        width: 426px;        
+    }
+    .writing_orig_text{    
+        font-size: 20px;        
+        margin-bottom: 15px;
+    }
+    .writing_orig_top{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .top_writing_orig{
+        width: 95px;
+        height: 152px;
+    }
+    .top_writing_orig img{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_orig_center{        
+        width: 426px;        
+    }
+    .writing_orig_bot{        
+        width: 426px;        
+        justify-content: space-between;
+    }
+    .bot_writing_orig{
+        width: 95px;
+        height: 152px;
+    }
+    .bot_writing_orig img{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_orig_winner{
+        width: 95px;
+        height: 152px;
+    }
+    .writing_orig_winner img{
+        width: 95px;
+        height: 152px;
+    }
+}
