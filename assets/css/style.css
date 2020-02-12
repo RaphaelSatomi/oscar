@@ -22,6 +22,10 @@ body{
     display: flex;
     justify-content: center;
 }
+.center_int img{
+    width: 120px;
+    height: 360px;
+}
 
 .center_left{
     display: flex;
