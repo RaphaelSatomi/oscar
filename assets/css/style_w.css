@@ -1416,10 +1416,16 @@ body{
         margin-left: 750px;
     }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1440px){
+@media only screen and (min-width: 1366px) and (max-width: 1440px){
     .arrow_int{         
         margin-left: 200px;
         margin-top: 500px;
+    }    
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px){
+    .arrow_int{         
+        margin-left: 160px;
+        margin-top: 515px;
     }    
 }
 @media only screen and (min-width: 1000px) and (max-width: 1024px){
