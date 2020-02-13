@@ -42,7 +42,7 @@ body{
 .center_r_int a{
     text-decoration: none;
     color: #b7a064;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .center_right{
@@ -75,7 +75,7 @@ body{
         height: 430px;
     }
 }
-@media only screen and (min-width: 320px) and (max-width: 375px){
+@media only screen and (min-width: 177px) and (max-width: 375px){
     .top{
         margin-top: 30px;
     }
@@ -88,7 +88,7 @@ body{
         height: 450px;
     }
 }
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 177px){
     .top{
         margin-top: 50px;
     }
