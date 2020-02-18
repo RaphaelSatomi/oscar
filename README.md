@@ -8,10 +8,10 @@ Simple website with purpose to traine flexbox and HTML
 
 ## Images
 <div style="display: flex; justify-content: center">
-<img src="assets/images/home.png" width="100" height="200">
-<img src="assets/images/second_page.png" width="100" height="200">
-<img src="assets/images/third_page.png" width="100" height="200">
-<img src="assets/images/four_page.png" width="100" height="200">
+<img src="assets/images/home.png" width="500" height="250">
+<img src="assets/images/second_page.png" width="500" height="250">
+<img src="assets/images/third_page.png" width="500" height="250">
+<img src="assets/images/four_page.png" width="500" height="250">
 </div>
 
 
