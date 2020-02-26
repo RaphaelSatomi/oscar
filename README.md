@@ -1,7 +1,5 @@
 # Oscar
 
-**Version 1.0.0**
-
 Simple website with purpose to traine flexbox and HTML
 - This website is responsive
 ---
